@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103.611" height="111.313" viewBox="0 0 103.611 111.313">
+  <g id="Component_12_1" data-name="Component 12 – 1" transform="translate(0 0.5)">
+    <path id="Icon_metro-expand-more" data-name="Icon metro-expand-more" d="M23.888,13.605,17.995,19.5,12.1,13.605l-1.819,1.819,7.712,7.712,7.712-7.712Z" transform="matrix(0.017, -1, 1, 0.017, 80.03, 108.25)" fill="#1f5171"/>
+    <path id="Icon_material-ondemand-video" data-name="Icon material-ondemand-video" d="M62.089,4.5H7.559C4.2,4.5,1.5,7.507,1.5,11.257V51.8c0,3.716,2.7,6.757,6.059,6.757H22.706v6.757H46.942V58.556H62.089c3.332,0,6.029-3.041,6.029-6.757l.03-40.542C68.148,7.507,65.422,4.5,62.089,4.5Zm0,47.3H7.559V11.257H62.089ZM46.942,31.528,25.736,45.042V18.014Z" transform="translate(11.5 -4.5)" fill="none" stroke="#1f5171" stroke-width="1"/>
+    <text id="Demos" transform="translate(0 98.813)" fill="#1f5171" font-size="30" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">Demos</tspan></text>
+  </g>
+</svg>

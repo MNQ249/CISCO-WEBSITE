@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151.478" height="131.817" viewBox="0 0 151.478 131.817">
+  <g id="Component_10_1" data-name="Component 10 – 1" transform="translate(0 0.54)">
+    <path id="Icon_material-web-asset" data-name="Icon material-web-asset" d="M74.608,6H13.264C8.4,6,4.5,10.741,4.5,16.535V79.742c0,5.794,3.9,10.535,8.764,10.535H74.608c4.82,0,8.763-4.741,8.763-10.535V16.535C83.371,10.741,79.472,6,74.608,6Zm0,73.742H13.264V27.069H74.608Z" transform="translate(24.5 -6)" fill="none" stroke="#1f5171" stroke-width="1"/>
+    <g id="Icon_feather-arrow-down-circle" data-name="Icon feather-arrow-down-circle" transform="translate(52 28.277)">
+      <path id="Path_9" data-name="Path 9" d="M12,18l6,6,6-6" transform="translate(-1)" fill="#fff" stroke="#1f5171" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_10" data-name="Path 10" d="M18,12V24" transform="translate(-1)" fill="none" stroke="#1f5171" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_11" data-name="Path 11" d="M22.239,13.753c0,5.939-4.307,10.753-9.619,10.753S3,19.692,3,13.753,7.307,3,12.619,3s9.619,4.814,9.619,10.753Z" transform="translate(4.326 -30.317)" fill="none" stroke="#1f5171" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="3.5" cy="4" rx="3.5" ry="4" transform="translate(65 7.277)" fill="#1f5171"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="2" cy="2" r="2" transform="translate(84 8.277)" fill="#ed6a5e"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="2" cy="2" r="2" transform="translate(89 8.277)" fill="#f5bd50"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="2" cy="2" r="2" transform="translate(94 8.277)" fill="#61c455"/>
+    <text id="Free_Trials" data-name="Free Trials" transform="translate(0 119.277)" fill="#1f5171" font-size="30" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">Free Trials</tspan></text>
+    <path id="Icon_metro-expand-more" data-name="Icon metro-expand-more" d="M23.888,13.605,17.995,19.5,12.1,13.605l-1.819,1.819,7.712,7.712,7.712-7.712Z" transform="translate(128.341 128.037) rotate(-90)" fill="#1f5171"/>
+  </g>
+</svg>
